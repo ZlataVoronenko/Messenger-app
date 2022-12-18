@@ -1,4 +1,5 @@
 # chat-app
+Messenger app made with Vue.js
 
 ## Project setup
 ```
